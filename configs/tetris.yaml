@@ -1,0 +1,23 @@
+model_params:
+  name: "single_supervised"
+  img_size: 35  # doesnt matter
+  epochs: 30
+  data_path: "./data/tetrominoes/"
+  dataset: "tetris"
+  batch_size: 8
+  num_parts: 9
+  num_layers: 3
+  num_channels: 2
+  filter_size: 19
+  num_colors: 10
+  clone_per_epoch: 1
+  max_clone_parts: 64
+  padding: True
+  eval: False
+  search_redo: False
+
+logging_params:
+  save_dir: "../logs/"
+  name: "SingleObjectSupervised"
+  manual_seed: 1265
+  add_checker_bg: True
