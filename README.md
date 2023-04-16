@@ -4,7 +4,7 @@ Finding an unsupervised decomposition of an image into individual objects is a k
 
 Website: https://geometry.cs.ucl.ac.uk/projects/2022/SearchForConcepts/
 
-<img src="http://geometry.cs.ucl.ac.uk/projects/2021/im2vec/paper_docs/teaser.png">
+<img src="https://geometry.cs.ucl.ac.uk/projects/2022/SearchForConcepts/paper_docs/teaser.png">
 
 ## Citation
 ```
