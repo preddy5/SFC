@@ -4,17 +4,14 @@ Finding an unsupervised decomposition of an image into individual objects is a k
 
 Website: https://geometry.cs.ucl.ac.uk/projects/2022/SearchForConcepts/
 
-<img src="http://geometry.cs.ucl.ac.uk/projects/2021/im2vec/paper_docs/teaser.png">
+<img src="https://geometry.cs.ucl.ac.uk/projects/2022/SearchForConcepts/paper_docs/teaser.png">
 
 ## Citation
 ```
-  @misc{https://doi.org/10.48550/arxiv.2210.14808,
-    doi = {10.48550/ARXIV.2210.14808},
-    url = {https://arxiv.org/abs/2210.14808},
-    author = {Reddy, Pradyumna and Guerrero, Paul and Mitra, Niloy J.},
-    title = {Search for Concepts: Discovering Visual Concepts Using Direct Optimization},
-    publisher = {arXiv},
-    year = {2022},
-    copyright = {Creative Commons Attribution 4.0 International}
-  }
+@article{reddy2022search,
+  title={Search for Concepts: Discovering Visual Concepts Using Direct Optimization},
+  author={Reddy, Pradyumna and Guerrero, Paul and Mitra, Niloy J},
+  journal={arXiv preprint arXiv:2210.14808},
+  year={2022}
+}
 ```

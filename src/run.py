@@ -12,12 +12,9 @@ import torch
 from tqdm import tqdm
 from bbn_layer import BBN_Layer
 from torch.utils.tensorboard import SummaryWriter
-
 from utils import count_parameters, update_progress, save_tensors, save_indv_parts
 
 
-# exec('from self_composite.{} import model'.format(config['model_params']['name']))
-# exec('from self_composite.io import {}'.format(config['model_params']['dataloader']))
 torch.manual_seed(42)
 device = 'cuda'
 #---------------------------------------------------------------------------------------------------------
